@@ -1,0 +1,3 @@
+- Download your datasets and put it under this directory
+- Name the folder as cifar10, cifar100, etc. 
+- Just keep consist to your "root" settings in your configuration files "xxx.yaml" 
